@@ -1,4 +1,4 @@
-# AWS Enterprise Landing Zone
+# AWS Landing Zone
 
 [![CI](https://github.com/Simodalstix/AWS-enterprise-landingzone/actions/workflows/ci.yml/badge.svg)](https://github.com/Simodalstix/AWS-enterprise-landingzone/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
